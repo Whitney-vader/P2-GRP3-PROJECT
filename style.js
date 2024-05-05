@@ -15,7 +15,10 @@ function findLocation() {
     
 
     'Syokimau': ['gateway mall', 'inua mama foundation',],
-    'juja': ['linda raia asosiation',]
+    'Imara': ['icc church', 'imara mall', 'mukuru kwa njenga primary'],
+    'Thika road': ['military barracks'],
+    'Kabete' : ['mary leaky girls high school']
+
     
   };
 
